@@ -1,0 +1,1 @@
+This project is just a demonstration of webview augmented reality and machine learning to support lite devices with low end hardware.
